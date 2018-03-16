@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>raychat</name>
+	<displayName><![CDATA[raychat]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[Online chat platform and customer relationship]]></description>
+	<author><![CDATA[RayChat Programming Team]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
